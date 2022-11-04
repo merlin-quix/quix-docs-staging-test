@@ -1,7 +1,7 @@
 # Get Started
 
 If you’re new to Quix, these resources are the best place to get you up
-and running quickly.
+and running quickly. I am a new sentence.
 
 **What is Quix?.**
 
